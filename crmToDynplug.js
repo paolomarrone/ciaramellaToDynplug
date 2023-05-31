@@ -1,16 +1,16 @@
 (async function() {
 
-	const http = require('http')
+	const https = require('https')
 	
 	exports.ciaramellaToYaaaeapa = function(compiler, code, initial_block, control_inputs, initial_values) {
 		return compiler.compile(null, false, code, initial_block, control_inputs, initial_values, 'yaaaeapa');
 	}
 
-	exports.yaaaeapaToSharedLibrary = function (files, compilationServerUrl, compilationServerPort, onSuccessCb) {
+	exports.yaaaeapaToSharedLibrary = async function (files, compilationServerUrl, compilationServerPort, onSuccessCb, onFailureCb) {
 
 		const postData = JSON.stringify(files);
 		
-		const req = http.request(
+		const req = https.request(
 			{
 				hostname: compilationServerUrl,
 				port: compilationServerPort,
@@ -22,17 +22,19 @@
 					'Content-Length': Buffer.byteLength(postData),
 				}
 			}, (res) => {
-				console.log("res STATUS:", res.statusCode);
-				console.log("res HEADERS:", res.headers);
-				if (res.headers["compilation-result"] != "ok") {
-					console.log("Compilation failed.");
-					return
-				}
 				var bufs = [];
 				res.on('data', (chunk) => {
 					bufs.push(chunk);
 				});
 				res.on('end', () => {
+					if (res.statusCode == 500) {
+						onFailureCb("Compilation Server Error:\n" + res.statusCode + "\nin response: \n" + bufs.join(''));
+						return;
+					}
+					if (res.headers["compilation-result"] != "ok") {
+						onFailureCb("Compilation Server Error:\n" + res.statusCode + "\n" + res.headers["Compilation-log"]);
+						return;
+					}
 					var buf = Buffer.concat(bufs);
 					onSuccessCb(buf);
 				});
@@ -40,16 +42,16 @@
 		);
 
 		req.on('error', (e) => {
-			console.error(`problem with request: ${e.message}`);
+			onFailureCb("Compilation Server Error:\nProblem with request: " + e.message);
 		});
 
 		req.write(postData);
 		req.end(); 
 	}
 
-	exports.sharedLibraryToDynplug = function (sharedLibrary, dynplugServerUrl, dynplugServerPort) {
+	exports.sharedLibraryToDynplug = function (sharedLibrary, dynplugServerUrl, dynplugServerPort, onSuccessCb, onFailureCb) {
 	
-		const req = http.request(
+		const req = https.request(
 			{
 				hostname: dynplugServerUrl,
 				port: dynplugServerPort,
@@ -60,30 +62,43 @@
 					'Content-Type': 'application/octet-stream',
 				}
 			}, (res) => {
-				console.log("res STATUS:", res.statusCode);
-				console.log("res HEADERS:", res.headers);
-				
+				let body = "";
 				res.on('data', (chunk) => {
-					console.log(`response's BODY: ${chunk}`);
+					body += chunk;
 				});
 				res.on('end', () => {
-					console.log('No more data in response.');
+					if (res.statusCode == 500)
+						onFailureCb("Dynplug Server Error:\n" + res.statusCode + "\n" + body)
+					else
+						onSuccessCb(body)
 				});
 			}
 		);
 
 		req.on('error', (e) => {
-			console.error(`problem with request: ${e.message}`);
+			onFailureCb("Dynplug Server Error:\n" + e);
 		});
 
 		req.write(sharedLibrary);
 		req.end(); 
 	}
 
-	exports.ciaramellaToDynplug = async function (compiler, code, initial_block, control_inputs, initial_values, compilationServerUrl, compilationServerPort, dynplugServerUrl, dynplugServerPort) {
-		var ff = exports.ciaramellaToYaaaeapa(compiler, code, initial_block, control_inputs, initial_values);
-		var ot = await exports.yaaaeapaToSharedLibrary(ff, compilationServerUrl, compilationServerPort, function (data) {
-			exports.sharedLibraryToDynplug(data, dynplugServerUrl, dynplugServerPort);
-		})
+	exports.ciaramellaToDynplug = async function (compiler, code, initial_block, control_inputs, initial_values, compilationServerUrl, compilationServerPort, dynplugServerUrl, dynplugServerPort, onSuccessCb, onFailureCb) {
+		try {
+			let ff = exports.ciaramellaToYaaaeapa(compiler, code, initial_block, control_inputs, initial_values);
+		
+			exports.yaaaeapaToSharedLibrary(ff, compilationServerUrl, compilationServerPort, 
+				function (data) {
+					exports.sharedLibraryToDynplug(data, dynplugServerUrl, dynplugServerPort, 
+						onSuccessCb, 
+						onFailureCb
+					);
+				}, 	
+				onFailureCb
+			)
+		} catch (e) {
+			onFailureCb(e)
+			return;
+		}	
 	}
 }());
