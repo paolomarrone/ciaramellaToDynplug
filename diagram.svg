@@ -3,8 +3,8 @@
 
 <svg
    width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   height="235mm"
+   viewBox="0 0 210 235"
    version="1.1"
    id="svg5"
    sodipodi:docname="diagram.svg"
@@ -25,84 +25,85 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.37772166"
-     inkscape:cx="685.69009"
+     inkscape:cx="435.50587"
      inkscape:cy="669.80538"
      inkscape:window-width="1920"
      inkscape:window-height="1035"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     height="296mm" />
   <defs
      id="defs2">
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="marker39861"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path39859" />
     </marker>
     <marker
        style="overflow:visible"
        id="marker39845"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path39843" />
     </marker>
     <marker
        style="overflow:visible"
        id="SquareL"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="SquareL"
        inkscape:isstock="true">
       <path
          transform="scale(0.8)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M -5.0,-5.0 L -5.0,5.0 L 5.0,5.0 L 5.0,-5.0 L -5.0,-5.0 z "
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M -5,-5 V 5 H 5 V -5 Z"
          id="path39500" />
     </marker>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Lend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path39433" />
     </marker>
     <marker
        style="overflow:visible"
        id="Arrow1Lstart"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path39430" />
     </marker>
     <linearGradient
@@ -539,31 +540,31 @@
          transform="translate(0.88311436,62.025543)"><tspan
            x="6.7451582"
            y="75.491943"
-           id="tspan70438"><tspan
+           id="tspan2990"><tspan
              style="font-weight:bold"
-             id="tspan70436">Ciaramella code
+             id="tspan2988">Ciaramella code
 </tspan></tspan><tspan
            x="6.7451582"
            y="81.738926"
-           id="tspan70440">⇩compile locally
+           id="tspan2992">⇩compile locally
 </tspan><tspan
            x="6.7451582"
            y="87.985913"
-           id="tspan70444"><tspan
+           id="tspan2996"><tspan
              style="font-weight:bold"
-             id="tspan70442">.c yaaaeapa files
+             id="tspan2994">.c yaaaeapa files
 </tspan></tspan><tspan
            x="6.7451582"
            y="94.232899"
-           id="tspan70448"><tspan
+           id="tspan3000"><tspan
              style="font-weight:bold"
-             id="tspan70446">
+             id="tspan2998">
 </tspan></tspan><tspan
            x="6.7451582"
            y="100.47989"
-           id="tspan70452"><tspan
+           id="tspan3004"><tspan
              style="font-weight:bold"
-             id="tspan70450">.so file
+             id="tspan3002">.so file
 </tspan></tspan></text>
     </g>
     <path
