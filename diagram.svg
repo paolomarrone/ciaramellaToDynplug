@@ -7,33 +7,9 @@
    viewBox="0 0 210 235"
    version="1.1"
    id="svg5"
-   sodipodi:docname="diagram.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="0.37772166"
-     inkscape:cx="435.50587"
-     inkscape:cy="669.80538"
-     inkscape:window-width="1920"
-     inkscape:window-height="1035"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     height="296mm" />
   <defs
      id="defs2">
     <marker
@@ -41,9 +17,7 @@
        id="marker39861"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
@@ -55,9 +29,7 @@
        id="marker39845"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.8,0,0,0.8,10,0)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
@@ -69,9 +41,7 @@
        id="SquareL"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="SquareL"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="scale(0.8)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
@@ -83,9 +53,7 @@
        id="Arrow1Lend"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
@@ -97,9 +65,7 @@
        id="Arrow1Lstart"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.8,0,0,0.8,10,0)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
@@ -107,16 +73,14 @@
          id="path39430" />
     </marker>
     <linearGradient
-       id="linearGradient12261"
-       inkscape:swatch="solid">
+       id="linearGradient12261">
       <stop
          style="stop-color:#7c8dff;stop-opacity:1;"
          offset="0"
          id="stop12259" />
     </linearGradient>
     <linearGradient
-       id="linearGradient12187"
-       inkscape:swatch="solid">
+       id="linearGradient12187">
       <stop
          style="stop-color:#7c8dff;stop-opacity:1;"
          offset="0"
@@ -205,7 +169,6 @@
          id="path13211" />
     </symbol>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient30611"
        id="linearGradient30613"
        x1="3.6298778"
@@ -214,7 +177,6 @@
        y2="19.84375"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient30611">
       <stop
          style="stop-color:#aaccee;stop-opacity:1;"
@@ -230,9 +192,7 @@
        id="marker39845-3"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(0.8,0,0,0.8,10,0)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
@@ -244,9 +204,7 @@
        id="marker39861-1"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
@@ -258,9 +216,7 @@
        id="marker69796"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
@@ -272,9 +228,7 @@
        id="marker69800"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
@@ -286,9 +240,7 @@
        id="marker69804"
        refX="0"
        refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend"
-       inkscape:isstock="true">
+       orient="auto">
       <path
          transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
@@ -297,8 +249,6 @@
     </marker>
   </defs>
   <g
-     inkscape:label="Livello 1"
-     inkscape:groupmode="layer"
      id="layer1">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.947017;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.999776;paint-order:stroke markers fill"
@@ -328,7 +278,6 @@
            x="106.80652"
            y="206.62762"
            id="text16607"><tspan
-             sodipodi:role="line"
              style="stroke-width:0.196397"
              x="106.80652"
              y="206.62762"
@@ -358,17 +307,14 @@
          x="75.699074"
          y="267.62006"
          id="text22321"><tspan
-           sodipodi:role="line"
            style="stroke-width:0.154756"
            x="75.699074"
            y="269.88095"
            id="tspan28533">listener</tspan><tspan
-           sodipodi:role="line"
            style="stroke-width:0.154756"
            x="75.699074"
            y="285.35648"
            id="tspan28537">thread</tspan><tspan
-           sodipodi:role="line"
            style="stroke-width:0.154756"
            x="75.699074"
            y="293.09427"
@@ -379,12 +325,10 @@
          x="131.36334"
          y="266.41644"
          id="text26995"><tspan
-           sodipodi:role="line"
            id="tspan26993"
            style="stroke-width:0.146977"
            x="131.36334"
            y="268.56369">audio</tspan><tspan
-           sodipodi:role="line"
            style="stroke-width:0.146977"
            x="131.36334"
            y="275.91251"
@@ -408,7 +352,6 @@
          x="87.947395"
          y="289.16428"
          id="text32919"><tspan
-           sodipodi:role="line"
            id="tspan32917"
            style="stroke-width:0.264583"
            x="87.947395"
@@ -432,7 +375,6 @@
          x="51.712543"
          y="148.71945"
          id="text30436"><tspan
-           sodipodi:role="line"
            id="tspan30434"
            style="stroke-width:0.264583"
            x="51.712543"
@@ -443,7 +385,6 @@
          x="93.390381"
          y="171.29662"
          id="text38755"><tspan
-           sodipodi:role="line"
            id="tspan38753"
            style="stroke-width:0.189278"
            x="93.390381"
@@ -455,15 +396,13 @@
       <path
          style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker39845-3);marker-end:url(#marker39861-1);paint-order:stroke markers fill"
          d="m 61.305253,181.16667 c -0.506457,18.81732 0.977969,58.91386 0.977969,58.91386"
-         id="path39348"
-         sodipodi:nodetypes="cc" />
+         id="path39348" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="64.148827"
          y="203.48363"
          id="text42307"><tspan
-           sodipodi:role="line"
            id="tspan42305"
            style="stroke-width:0.264583"
            x="64.148827"
@@ -490,7 +429,6 @@
            x="131.50247"
            y="142.55565"
            id="text30436-7"><tspan
-             sodipodi:role="line"
              id="tspan30434-9"
              style="stroke-width:0.174648"
              x="131.50247"
@@ -501,7 +439,6 @@
            x="159.01349"
            y="157.45854"
            id="text38755-2"><tspan
-             sodipodi:role="line"
              id="tspan38753-0"
              style="stroke-width:0.12494"
              x="159.01349"
@@ -526,7 +463,6 @@
          x="6.9778266"
          y="126.75852"
          id="text30436-7-7"><tspan
-           sodipodi:role="line"
            id="tspan30434-9-5"
            style="stroke-width:0.174648"
            x="6.9778266"
@@ -540,43 +476,41 @@
          transform="translate(0.88311436,62.025543)"><tspan
            x="6.7451582"
            y="75.491943"
-           id="tspan2990"><tspan
+           id="tspan1630"><tspan
              style="font-weight:bold"
-             id="tspan2988">Ciaramella code
+             id="tspan1628">Ciaramella code
 </tspan></tspan><tspan
            x="6.7451582"
            y="81.738926"
-           id="tspan2992">⇩compile locally
+           id="tspan1632">⇩compile locally
 </tspan><tspan
            x="6.7451582"
            y="87.985913"
-           id="tspan2996"><tspan
+           id="tspan1636"><tspan
              style="font-weight:bold"
-             id="tspan2994">.c yaaaeapa files
+             id="tspan1634">.c yaaaeapa files
 </tspan></tspan><tspan
            x="6.7451582"
            y="94.232899"
-           id="tspan3000"><tspan
+           id="tspan1640"><tspan
              style="font-weight:bold"
-             id="tspan2998">
+             id="tspan1638">
 </tspan></tspan><tspan
            x="6.7451582"
            y="100.47989"
-           id="tspan3004"><tspan
+           id="tspan1644"><tspan
              style="font-weight:bold"
-             id="tspan3002">.so file
+             id="tspan1642">.so file
 </tspan></tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker39861-1)"
        d="m 58.14417,85.866077 c 83.8265,-14.66252 81.81743,-31.76489 88.63915,-52.803054"
-       id="path61250"
-       sodipodi:nodetypes="cc" />
+       id="path61250" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker39861-1)"
        d="M 166.00791,33.843049 C 150.99888,102.18646 33.0155,97.495627 33.0155,97.495627"
-       id="path61252"
-       sodipodi:nodetypes="cc" />
+       id="path61252" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.04455px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.151114"
@@ -584,7 +518,6 @@
        y="64.778786"
        id="text64357"
        transform="scale(0.99988142,1.0001186)"><tspan
-         sodipodi:role="line"
          id="tspan64355"
          style="stroke-width:0.151114"
          x="95.63913"
@@ -596,7 +529,6 @@
        y="135.55138"
        id="text64357-9"
        transform="scale(0.99988142,1.0001186)"><tspan
-         sodipodi:role="line"
          id="tspan64355-7"
          style="stroke-width:0.151114"
          x="40.95018"
@@ -608,7 +540,6 @@
        y="84.602631"
        id="text64357-2"
        transform="scale(0.99988142,1.0001186)"><tspan
-         sodipodi:role="line"
          id="tspan64355-8"
          style="stroke-width:0.151114"
          x="133.62222"
@@ -616,11 +547,8 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker39861-1)"
        d="m 33.0155,97.495627 c 34.98278,47.068763 63.21681,44.696203 71.46901,44.114863"
-       id="path67440"
-       sodipodi:nodetypes="cc" />
+       id="path67440" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Livello 2" />
+     id="layer2" />
 </svg>
