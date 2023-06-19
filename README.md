@@ -11,7 +11,7 @@ A set of tools to compile and run a Ciaramella program on the fly inside a never
 
 ## Behaviour
 
-<svg src="./diagram.svg" width="400" style="background-color:white;">
+<img src="./diagram.svg" width="400">
 
 The standard behaviour is:
 - Compile Ciaramella code and obtain A.c, A.h, and A_yaaaeapa_wrapper.c files
