@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker39861"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path39859" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker39845"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path39843" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="SquareL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M -5.0,-5.0 L -5.0,5.0 L 5.0,5.0 L 5.0,-5.0 L -5.0,-5.0 z "
+         id="path39500" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path39433" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path39430" />
+    </marker>
+    <linearGradient
+       id="linearGradient30611">
+      <stop
+         style="stop-color:#aaccee;stop-opacity:1;"
+         offset="0"
+         id="stop30607" />
+      <stop
+         style="stop-color:#aaccee;stop-opacity:0;"
+         offset="1"
+         id="stop30609" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12261">
+      <stop
+         style="stop-color:#7c8dff;stop-opacity:1;"
+         offset="0"
+         id="stop12259" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12187">
+      <stop
+         style="stop-color:#7c8dff;stop-opacity:1;"
+         offset="0"
+         id="stop12185" />
+    </linearGradient>
+    <symbol
+       id="AuxillaryOp">
+      <title
+         id="title13265">Auxiliary Operation</title>
+      <desc
+         id="desc13267">Offline operation.</desc>
+      <rect
+         x="9.260417"
+         y="9.260417"
+         width="21.166666"
+         height="21.166666"
+         style="stroke-width:0.529167"
+         id="rect13269" />
+    </symbol>
+    <symbol
+       id="Document">
+      <title
+         id="title13214">Document</title>
+      <desc
+         id="desc13216">A document or report</desc>
+      <path
+         d="m 3.96875,9.2604167 h 31.75 V 25.135417 C 22.489583,23.8125 17.197917,34.395833 3.96875,27.78125 Z"
+         style="stroke-width:0.529167"
+         id="path13218" />
+    </symbol>
+    <symbol
+       id="Display">
+      <title
+         id="title13258">Display</title>
+      <desc
+         id="desc13260">Information display by online indicators, video devices, printers, etc.</desc>
+      <path
+         d="M 3.96875,19.84375 A 26.458333,26.458333 0 0 1 14.552083,9.2604167 H 31.75 a 15.875,15.875 0 0 1 0,21.1666663 H 14.552083 A 26.458333,26.458333 0 0 1 3.96875,19.84375 Z"
+         style="stroke-width:0.529167px"
+         id="path13262" />
+    </symbol>
+    <symbol
+       id="CommunicationLink">
+      <title
+         id="title13349">Communication Link</title>
+      <desc
+         id="desc13351">Transcommunication link.</desc>
+      <path
+         d="M 17.197917,6.6145833 V 22.489583 l 5.291666,-5.291666 v 15.875"
+         style="fill:none;stroke-width:0.529167"
+         id="path13353" />
+    </symbol>
+    <symbol
+       id="Connector">
+      <title
+         id="title13328">Connector</title>
+      <desc
+         id="desc13330">Exit to or entry from another part of chart.</desc>
+      <circle
+         cx="19.84375"
+         cy="19.84375"
+         r="5.2916665"
+         style="stroke-width:0.529167"
+         id="circle13332" />
+    </symbol>
+    <symbol
+       id="Comment">
+      <title
+         id="title13363">Comment/Annotation</title>
+      <desc
+         id="desc13365">Additional descriptive clarification (connect by dotted line).</desc>
+      <path
+         d="m 35.71875,30.427083 h -31.75 V 9.2604167 h 31.75"
+         style="stroke-width:0.529167"
+         id="path13367" />
+    </symbol>
+    <symbol
+       id="InputOutput">
+      <title
+         id="title13207">Input/Output</title>
+      <desc
+         id="desc13209">General input/output functions.</desc>
+      <path
+         d="M 9.2604167,9.2604167 H 35.71875 L 30.427083,30.427083 H 3.96875 Z"
+         style="stroke-width:0.529167"
+         id="path13211" />
+    </symbol>
+    <linearGradient
+       xlink:href="#linearGradient30611"
+       id="linearGradient30613"
+       x1="3.6298777"
+       y1="19.84375"
+       x2="36.057622"
+       y2="19.84375"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g30531"
+       transform="matrix(0.66008757,0,0,0.66008757,61.200526,87.900783)">
+      <g
+         id="g20140"
+         transform="matrix(1.1049213,0,0,1.1310102,-25.473625,18.304779)">
+        <use
+           xlink:href="#AuxillaryOp"
+           style="fill:#aaccee;stroke:#000000"
+           id="use14452"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%"
+           transform="matrix(4.3636162,0,0,1.6742896,38.640536,184.14998)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:7.85586px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.196397"
+           x="106.80652"
+           y="206.62762"
+           id="text16607"><tspan
+             style="stroke-width:0.196397"
+             x="106.80652"
+             y="206.62762"
+             id="tspan16609">dynplug</tspan></text>
+      </g>
+      <use
+         xlink:href="#AuxillaryOp"
+         style="fill:#aaccee;stroke:#000000"
+         id="use20077"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(1.5686595,0,0,0.86974636,110.09641,252.63452)" />
+      <use
+         xlink:href="#AuxillaryOp"
+         style="fill:#aaccee;stroke:#000000"
+         id="use20232"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(1.989662,0,0,0.85877759,48.73953,252.92528)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.19022px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154756"
+         x="75.699074"
+         y="267.62006"
+         id="text22321"><tspan
+           style="stroke-width:0.154756"
+           x="75.699074"
+           y="269.88095"
+           id="tspan28533">listener</tspan><tspan
+           style="stroke-width:0.154756"
+           x="75.699074"
+           y="285.35648"
+           id="tspan28537">thread</tspan><tspan
+           style="stroke-width:0.154756"
+           x="75.699074"
+           y="293.09427"
+           id="tspan28539" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.87907px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.146977"
+         x="131.36334"
+         y="266.41644"
+         id="text26995"><tspan
+           id="tspan26993"
+           style="stroke-width:0.146977"
+           x="131.36334"
+           y="268.56369">audio</tspan><tspan
+           style="stroke-width:0.146977"
+           x="131.36334"
+           y="275.91251"
+           id="tspan29029">thread</tspan></text>
+    </g>
+    <g
+       id="g33004"
+       transform="matrix(0.66008757,0,0,0.66008757,76.969826,100.33852)">
+      <use
+         xlink:href="#InputOutput"
+         style="opacity:0.337822;fill:url(#linearGradient30613);fill-opacity:1;stroke:#000000"
+         id="use30584"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(6.2117143,0,0,3.7782466,-24.323246,181.2163)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="87.947395"
+         y="289.16428"
+         id="text32919"><tspan
+           id="tspan32917"
+           style="stroke-width:0.264583"
+           x="87.947395"
+           y="289.16428">DAW</tspan></text>
+    </g>
+    <g
+       id="g40258"
+       transform="matrix(0.66008757,0,0,0.66008757,76.969826,100.33852)">
+      <use
+         xlink:href="#AuxillaryOp"
+         style="fill:#aaccee;stroke:#000000"
+         id="use29162"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(5.7698995,0,0,2.0699787,-7.0155118,116.87139)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="51.712543"
+         y="148.71945"
+         id="text30436"><tspan
+           id="tspan30434"
+           style="stroke-width:0.264583"
+           x="51.712543"
+           y="148.71945">dynplug_server</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.5711px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.189278"
+         x="93.390381"
+         y="171.29662"
+         id="text38755"><tspan
+           id="tspan38753"
+           style="stroke-width:0.189278"
+           x="93.390381"
+           y="171.29662">Listens on 10001</tspan></text>
+    </g>
+    <g
+       id="g42392"
+       transform="matrix(0.66008757,0,0,0.66008757,76.969826,100.33852)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker39845);marker-end:url(#marker39861);paint-order:stroke markers fill"
+         d="m 61.305253,181.16667 c -0.506457,18.81732 0.977969,58.91386 0.977969,58.91386"
+         id="path39348" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="64.148827"
+         y="203.48363"
+         id="text42307"><tspan
+           id="tspan42305"
+           style="stroke-width:0.264583"
+           x="64.148827"
+           y="203.48363">PIPE</tspan></text>
+    </g>
+    <g
+       id="g67692">
+      <g
+         id="g43814"
+         transform="translate(-2.5516962,-68.792327)">
+        <use
+           xlink:href="#AuxillaryOp"
+           style="fill:#aaccee;stroke:#000000"
+           id="use29162-8"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%"
+           transform="matrix(3.808639,0,0,1.3663672,92.736658,121.53313)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.9859px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.174648"
+           x="131.50247"
+           y="142.55565"
+           id="text30436-7"><tspan
+             id="tspan30434-9"
+             style="stroke-width:0.174648"
+             x="131.50247"
+             y="142.55565">compilation_server</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.99759px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12494"
+           x="159.01349"
+           y="157.45854"
+           id="text38755-2"><tspan
+             id="tspan38753-0"
+             style="stroke-width:0.12494"
+             x="159.01349"
+             y="157.45854">Listens on 10002</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g67701">
+      <use
+         xlink:href="#AuxillaryOp"
+         style="fill:#aaccee;stroke:#000000"
+         id="use29162-8-3"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(3.7895199,0,0,2.500359,-31.408593,94.521186)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.9859px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.174648"
+         x="6.9778266"
+         y="126.75852"
+         id="text30436-7-7"><tspan
+           id="tspan30434-9-5"
+           style="stroke-width:0.174648"
+           x="6.9778266"
+           y="126.75852">ciaramella_editor</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.99759px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:64.0637;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12494"
+         x="6.7451582"
+         y="75.491943"
+         id="text38755-2-9"
+         transform="translate(0.88311436,62.025543)"><tspan
+           x="6.7451582"
+           y="75.491943"
+           id="tspan67823"><tspan
+             style="font-weight:bold"
+             id="tspan67821">Ciaramella code
+</tspan></tspan><tspan
+           x="6.7451582"
+           y="81.738926"
+           id="tspan67825">⇩compile locally
+</tspan><tspan
+           x="6.7451582"
+           y="87.985913"
+           id="tspan67829"><tspan
+             style="font-weight:bold"
+             id="tspan67827">.c yaaaeapa files
+</tspan></tspan><tspan
+           x="6.7451582"
+           y="94.232899"
+           id="tspan67833"><tspan
+             style="font-weight:bold"
+             id="tspan67831">
+</tspan></tspan><tspan
+           x="6.7451582"
+           y="100.47989"
+           id="tspan67837"><tspan
+             style="font-weight:bold"
+             id="tspan67835">.so file
+</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker39861)"
+       d="M 58.092867,149.14914 C 141.91939,134.48662 139.91032,117.38425 146.73204,96.346086"
+       id="path61250" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker39861)"
+       d="M 165.95663,97.126112 C 150.9476,165.46951 32.964202,160.77869 32.964202,160.77869"
+       id="path61252" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.04455px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.151114"
+       x="95.587822"
+       y="128.05435"
+       id="text64357"
+       transform="scale(0.99988142,1.0001186)"><tspan
+         id="tspan64355"
+         style="stroke-width:0.151114"
+         x="95.587822"
+         y="128.05435">https req</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.04455px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.151114"
+       x="40.898861"
+       y="198.82697"
+       id="text64357-9"
+       transform="scale(0.99988142,1.0001186)"><tspan
+         id="tspan64355-7"
+         style="stroke-width:0.151114"
+         x="40.898861"
+         y="198.82697">https req</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.04455px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.151114"
+       x="133.57097"
+       y="147.87817"
+       id="text64357-2"
+       transform="scale(0.99988142,1.0001186)"><tspan
+         id="tspan64355-8"
+         style="stroke-width:0.151114"
+         x="133.57097"
+         y="147.87817">https res</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker39861)"
+       d="m 32.964202,160.77869 c 34.982773,47.06874 63.216807,44.69618 71.469028,44.11484"
+       id="path67440" />
+  </g>
+</svg>
