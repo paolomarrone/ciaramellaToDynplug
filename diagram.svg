@@ -7,9 +7,32 @@
    viewBox="0 0 210 235"
    version="1.1"
    id="svg5"
+   sodipodi:docname="diagram.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview121"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.95475177"
+     inkscape:cx="396.96182"
+     inkscape:cy="611.67731"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <marker
@@ -258,85 +281,76 @@
        x="0.85810608"
        y="-1.6057701" />
     <g
-       id="g30531"
-       transform="matrix(0.66008757,0,0,0.66008757,61.25183,24.61772)">
-      <g
-         id="g20140"
-         transform="matrix(1.1049213,0,0,1.1310102,-25.473625,18.304779)">
-        <use
-           xlink:href="#AuxillaryOp"
-           style="fill:#aaccee;stroke:#000000"
-           id="use14452"
-           x="0"
-           y="0"
-           width="100%"
-           height="100%"
-           transform="matrix(4.3636162,0,0,1.6742896,38.640536,184.14998)" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:7.85586px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.196397"
+       id="g20140"
+       transform="matrix(0.72934482,0,0,0.74656577,44.437007,36.700477)">
+      <use
+         xlink:href="#AuxillaryOp"
+         style="fill:#aaccee;stroke:#000000"
+         id="use14452"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(4.3636162,0,0,1.6742896,38.640536,184.14998)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.85586px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.196397"
+         x="106.80652"
+         y="206.62762"
+         id="text16607"><tspan
+           style="stroke-width:0.196397"
            x="106.80652"
            y="206.62762"
-           id="text16607"><tspan
-             style="stroke-width:0.196397"
-             x="106.80652"
-             y="206.62762"
-             id="tspan16609">dynplug</tspan></text>
-      </g>
-      <use
-         xlink:href="#AuxillaryOp"
-         style="fill:#aaccee;stroke:#000000"
-         id="use20077"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         transform="matrix(1.5686595,0,0,0.86974636,110.09641,252.63452)" />
-      <use
-         xlink:href="#AuxillaryOp"
-         style="fill:#aaccee;stroke:#000000"
-         id="use20232"
-         x="0"
-         y="0"
-         width="100%"
-         height="100%"
-         transform="matrix(1.989662,0,0,0.85877759,48.73953,252.92528)" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.19022px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154756"
-         x="75.699074"
-         y="267.62006"
-         id="text22321"><tspan
-           style="stroke-width:0.154756"
-           x="75.699074"
-           y="269.88095"
-           id="tspan28533">listener</tspan><tspan
-           style="stroke-width:0.154756"
-           x="75.699074"
-           y="285.35648"
-           id="tspan28537">thread</tspan><tspan
-           style="stroke-width:0.154756"
-           x="75.699074"
-           y="293.09427"
-           id="tspan28539" /></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.87907px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.146977"
-         x="131.36334"
-         y="266.41644"
-         id="text26995"><tspan
-           id="tspan26993"
-           style="stroke-width:0.146977"
-           x="131.36334"
-           y="268.56369">audio</tspan><tspan
-           style="stroke-width:0.146977"
-           x="131.36334"
-           y="275.91251"
-           id="tspan29029">thread</tspan></text>
+           id="tspan16609">dynplug</tspan></text>
     </g>
+    <use
+       xlink:href="#AuxillaryOp"
+       style="fill:#aaccee;stroke:#000000"
+       id="use20077"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(1.0354526,0,0,0.57410876,133.9251,191.37863)" />
+    <use
+       xlink:href="#AuxillaryOp"
+       style="fill:#aaccee;stroke:#000000"
+       id="use20232"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(1.3133512,0,0,0.56686841,93.424188,191.57055)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.08609px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:22.1658;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.102153"
+       x="111.21985"
+       y="201.27039"
+       id="text22321"><tspan
+         x="111.21985"
+         y="201.27039"
+         id="tspan12199">listener
+</tspan><tspan
+         x="111.21985"
+         y="206.37799"
+         id="tspan12201">thread</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.8807px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0970177"
+       x="147.96313"
+       y="200.47591"
+       id="text26995"><tspan
+         id="tspan26993"
+         style="stroke-width:0.0970177"
+         x="147.96313"
+         y="201.89328">audio</tspan><tspan
+         style="stroke-width:0.0970177"
+         x="147.96313"
+         y="206.74414"
+         id="tspan29029">thread</tspan></text>
     <g
        id="g33004"
-       transform="matrix(0.66008757,0,0,0.66008757,77.02113,37.055457)">
+       transform="matrix(0.66008757,0,0,0.66008757,109.24102,-13.773764)">
       <use
          xlink:href="#InputOutput"
          style="opacity:0.337822;fill:url(#linearGradient30613);fill-opacity:1;stroke:#000000"
@@ -345,7 +359,7 @@
          y="0"
          width="100%"
          height="100%"
-         transform="matrix(6.2117143,0,0,3.7782466,-24.323246,181.2163)" />
+         transform="matrix(6.2117143,0,0,3.7782466,-72.166058,256.97759)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -394,7 +408,7 @@
        id="g42392"
        transform="matrix(0.66008757,0,0,0.66008757,77.02113,37.055457)">
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker39845-3);marker-end:url(#marker39861-1);paint-order:stroke markers fill"
+         style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:;marker-end:url(#marker39861-1);paint-order:stroke markers fill"
          d="m 61.305253,181.16667 c -0.506457,18.81732 0.977969,58.91386 0.977969,58.91386"
          id="path39348" />
       <text
@@ -476,31 +490,31 @@
          transform="translate(0.88311436,62.025543)"><tspan
            x="6.7451582"
            y="75.491943"
-           id="tspan1630"><tspan
+           id="tspan12205"><tspan
              style="font-weight:bold"
-             id="tspan1628">Ciaramella code
+             id="tspan12203">Ciaramella code
 </tspan></tspan><tspan
            x="6.7451582"
            y="81.738926"
-           id="tspan1632">⇩compile locally
+           id="tspan12207">⇩compile locally
 </tspan><tspan
            x="6.7451582"
            y="87.985913"
-           id="tspan1636"><tspan
+           id="tspan12211"><tspan
              style="font-weight:bold"
-             id="tspan1634">.c yaaaeapa files
+             id="tspan12209">.c yaaaeapa files
 </tspan></tspan><tspan
            x="6.7451582"
            y="94.232899"
-           id="tspan1640"><tspan
+           id="tspan12215"><tspan
              style="font-weight:bold"
-             id="tspan1638">
+             id="tspan12213">
 </tspan></tspan><tspan
            x="6.7451582"
            y="100.47989"
-           id="tspan1644"><tspan
+           id="tspan12219"><tspan
              style="font-weight:bold"
-             id="tspan1642">.so file
+             id="tspan12217">.so file
 </tspan></tspan></text>
     </g>
     <path
